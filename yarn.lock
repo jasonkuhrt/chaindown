@@ -1333,9 +1333,7 @@
     semver "7.3.2"
 
 "@size-limit/preset-small-lib@^4.9.0":
-  version "4.9.0"
-  resolved "https://registry.yarnpkg.com/@size-limit/preset-small-lib/-/preset-small-lib-4.9.0.tgz#8b54a55a2a4686b5f6b65fe17f7e0649ac5d21b9"
-  integrity sha512-dHTtPLqkL4irqeDwqLz3/tTXef2UhaAu8DN9vqitTHR5ZJPyx3HvbQ1xJmKG9LPRZotOfAf2jm6vBCSzKHOBGA==
+  version "4.12.0"
   dependencies:
     "@size-limit/file" "4.9.0"
     "@size-limit/webpack" "4.9.0"
